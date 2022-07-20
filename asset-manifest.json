@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-shruti/static/css/main.a68d93d2.css",
-    "main.js": "/portfolio-shruti/static/js/main.7dcd4638.js",
+    "main.js": "/portfolio-shruti/static/js/main.ec5c2079.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-shruti/static/js/787.1ed0c42c.chunk.js",
     "static/media/canvas.jpg": "/portfolio-shruti/static/media/canvas.eb2b72b7a8409ddc45ff.jpg",
     "static/media/background.jpg": "/portfolio-shruti/static/media/background.2f0d2edefa12e9b6d0c2.jpg",
@@ -17,11 +17,11 @@
     "static/media/mapsandflags.png": "/portfolio-shruti/static/media/mapsandflags.8874f5a9766504b9874b.png",
     "index.html": "/portfolio-shruti/index.html",
     "main.a68d93d2.css.map": "/portfolio-shruti/static/css/main.a68d93d2.css.map",
-    "main.7dcd4638.js.map": "/portfolio-shruti/static/js/main.7dcd4638.js.map",
+    "main.ec5c2079.js.map": "/portfolio-shruti/static/js/main.ec5c2079.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-shruti/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a68d93d2.css",
-    "static/js/main.7dcd4638.js"
+    "static/js/main.ec5c2079.js"
   ]
 }
